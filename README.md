@@ -1,16 +1,5 @@
 # Repo Miscelaneo
-<pre id="ascii-art"></pre>
-<script>
-  const frames = [
-    " (••) \n <)   )╯\n  /   \",
-    " (••) \n  (   (> \n  /   \",
-    " (•_•) \n <)   )╯\n  /   \"
-  ];
-  let i = 0;
-  setInterval(() => {
-    document.getElementById("ascii-art").textContent = frames[i++ % frames.length];
-  }, 300);
-</script>
+
 No tengo nada definido con lo que voy a hacer aqui, mientras sigo aprendiendo las mañas de Git y Github.
 
 
